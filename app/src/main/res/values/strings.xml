@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sima</string>
+    <string name="button">Klasifikasi</string>
+    <string name="button1">Induk Surat</string>
+    <string name="button2">Anak Surat</string>
+    <string name="button3">Informasi</string>
+    <string name="info">Aksara Simalungun adalah salah satu aksara yang masih berkembang di tanah Batak.
+    Aksara ini terdiri dari Induk Surat dan Anak Surat. Induk surat terdiri dari 19 huruf/karakter aksara.
+    Anak surat terdiri dari 5-7 simbol, namun pada aplikasi ini hanya menyebutkan 5 simbol. Aksara Simalungun
+    merupakan pelajaran bahasa daerah yang masih aktif diajarkan kepada anak-anak Sekolah Dasar. Aplikasi Sima ini
+    diharapkan dapat membantu pengenalan karakter Aksara Simalungun dengan lebih efektif dan efisien.</string>
+</resources>
